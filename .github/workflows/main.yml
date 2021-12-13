@@ -38,4 +38,4 @@ jobs:
       - name: run npm build
         run: npm run build
         working-directory: systemutviklerskolen-todo-app-frontend/
-        working-directory: systemutviklerskolen-todo-app-backend
+
